@@ -1,3 +1,8 @@
+```
+pip3 install boto3
+pip3 install pretty_bad_protocol
+```
+
 # python-s3
 ```
 <?xml version="1.0" encoding="UTF-8"?>
